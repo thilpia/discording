@@ -2,7 +2,7 @@ import discord # 봇을 만들기 위해 디스코드 모듈을 불러옵니다.
 from random import *
 import random
 
-token = "NzEzNDQwMzI3Mzc3MzU0NzY1.XtC19Q.mhoVr8rJ2PnpFYNRDbzAZdr6p84"
+token = "NzE3OTEwOTM1MTMzNjE4MjE4.XthMwg.METKPEbCge1IG-QRB1yLSlI2yHc"
 
 
 class bot(discord.Client):
